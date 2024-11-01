@@ -1,5 +1,6 @@
 {
     "name": "mka-kenney-tiles-1bit-platformer",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
